@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeraldineAustin
 - 👀 I’m interested in Business, Entrepreneurial New Ventures and SalesForce
 - 🌱 I’m currently learning Saleforce Admin
-- 💞️ I’m looking to collaborate on start-ups
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me geraldine.austin@increativeco.co.nz
 
 <!---
